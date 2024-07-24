@@ -10,6 +10,8 @@ Computer Vision
 * Diffusion Models as Masked Autoencoders | [[Review]](https://nayeonkang1227.tistory.com/3) [[Paper]](https://arxiv.org/abs/2304.03283)
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | [[Review]](https://halved-argument-df9.notion.site/Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows-617bdff876b146f6848693c97adfb54a?pvs=4, "swint review") [[Paper]](https://arxiv.org/abs/2103.14030)
 * Triplet-Center Loss for Multi-View 3D Object Retrieval | [[Review]](https://halved-argument-df9.notion.site/Triplet-Center-Loss-for-Multi-View-3D-Object-Retrieval-cd4f855770c54b20b7e4d9fea6f38608?pvs=4) [[Paper]](https://arxiv.org/abs/1803.06189)
+* A Discriminative Feature Learning Approach for Deep Face Recognition | [[Review]](https://halved-argument-df9.notion.site/A-Discriminative-Feature-Learning-Approach-for-Deep-Face-Recognition-46b9060cec2d415a8170c446f7acb6cb?pvs=4) [[Paper]](https://kpzhang93.github.io/papers/eccv2016.pdf)
+* Masked Diffusion Transformer is a Strong Image Synthesizer | [[Review]](https://halved-argument-df9.notion.site/Masked-Diffusion-Transformer-is-a-Strong-Image-Synthesizer-ca7ef54f69714c8ba919df201b427be8) [[Paper]](https://arxiv.org/abs/2303.14389)
 
 Time Series Analysis
 --------------------
@@ -17,3 +19,5 @@ Time Series Analysis
 * Ti-MAE: Self-supervised Masked Time Series Autoencoders | [[Review]](https://nayeonkang1227.tistory.com/4) [[Paper]](https://arxiv.org/abs/2301.08871)
 * Pathformer: Multi-Scale Transformers With Adaptive Pathways tor Time Series Forecasting | [[Review]](http://halved-argument-df9.notion.site) [[Paper]](https://openreview.net/pdf?id=lJkOCMP2aW)
 * TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning | [[Review]](https://halved-argument-df9.notion.site/TimeMIL-Advancing-Multivariate-Time-Series-Classification-via-a-Time-aware-Multiple-Instance-Learni-fa956e78e1e84198aa4cb179c30b7387?pvs=4) [[Paper]](https://arxiv.org/abs/2405.03140)
+* SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | [[Review]](https://halved-argument-df9.notion.site/SimMTM-A-Simple-Pre-Training-Framework-for-Masked-Time-Series-Modeling-ddaa4264394e4abbbde7755bcb5c6fb5?pvs=4) [[Paper]](https://arxiv.org/abs/2302.00861)
+* MTSMAE: Masked Autoencoders for Multivariate Time-Series Forecasting | [[Review]](https://nayeonkang1227.tistory.com/5) [[Paper]](https://arxiv.org/abs/2210.02199)

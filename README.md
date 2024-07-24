@@ -1,8 +1,8 @@
 deep-learning-paper-review
 ==========================
-This repository contains reviews of papers in the field of deep learning. These reviews are personally summarized about papers I've read for study, so they may not be totally accurate. Additionally, These reviews may not cover the entire content of papers since i summarized only the parts that were neccesary for me.
+This repository contains reviews of papers in the field of deep learning. These reviews are personally summarized about papers I've read for study, so they may not be totally accurate. Additionally, These reviews may not cover the entire content of papers since i summarized only the parts that were neccesary for me. They primarily focus on methodologies.
 
-본 레포지토리는 딥러닝 분야의 여러 논문에 대한 리뷰를 포함하고 있습니다. 해당 리뷰들은 제가 공부하면서 읽은 논문들을 개인적으로 정리해둔 것이기 때문에, 내용이 완벽히 정확하지 않을 수 있습니다. 또한, 필요한 부분을 위주로 요약했기 때문에 논문의 전체 내용을 다루고 있지 않을 수 있습니다. *주로 방법론(method) 위주로 서술되어 있습니다.*
+본 레포지토리는 딥러닝 분야의 여러 논문에 대한 리뷰를 포함하고 있습니다. 해당 리뷰들은 제가 공부하면서 읽은 논문들을 개인적으로 정리해둔 것이기 때문에, 내용이 완벽히 정확하지 않을 수 있습니다. 또한, 필요한 부분 위주로 요약했기 때문에 논문의 전체 내용을 다루고 있지 않을 수 있습니다. 주로 방법론(method) 위주로 서술되어 있습니다.
 
 Computer Vision
 ---------------
